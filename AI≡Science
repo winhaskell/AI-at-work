@@ -1,0 +1,18 @@
+AI≡Science
+
+https://simons.berkeley.edu/workshops/aiscience-strengthening-bond-between-sciences-artificial-intelligence
+
+Our workshop will focus on fostering an in-depth understanding and discussion of how AI is increasingly intersecting
+with biology, chemistry, physics, and related fields. This intersection is a two-way street, 
+comprising i) leveraging scientific insight to develop new machine learning methods, 
+and ii) developing new machine learning methods to advance the sciences. 
+Specific technical AI areas of interest that we plan to focus on, common to many of the sciences, 
+include: encoding of symmetries into models such as rotational equivariance; enabling neural networks 
+to operate in bases suitable for the sciences (e.g., Fourier basis for discrete and continuous data); 
+incorporating differential equations into neural networks for regularization and beyond; 
+representation learning; generalization, extrapolation, uncertainty quantification (aleatoric and epistemic), 
+domain shift; batch active learning; transfer learning; generative and conditional-generative modeling
+such as diffusion and flow-based models; the role of data augmentation. And… evaluation! 
+We encourage participation from researchers focused on specific scientific domain applications, 
+those on focused methodological development, as well as those who span the two.
+
